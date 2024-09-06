@@ -1,9 +1,9 @@
 # TA-Printer-Projects
 
-This program simulates an office hours queue。 
+Summary: This program simulates an office hours queue for Teacher Assistant hours for students.
 
 ## Premise
-1. The probability of receiving a new request every minute is 1/150. Since there are 150 probably students in the CS9 class. If there are more students, then for line 78, the range can be changed from 1 to any other numbers. 
+1. The probability of receiving a new request every minute is 1/150. Since there are 150 probably students in the computerscience class. If there are more students, then for line 78, the range can be changed from 1 to any other numbers. 
 
 2. The time taken to process each request is randomized between 1 to 30 minutes, which means the time interval for each TA and students will be around 1 minimum and 30 minutes maximum. 
 
@@ -11,6 +11,7 @@ This program simulates an office hours queue。
 
 ## Equation
 1. Average Waiting Time = Total Waiting Time / Number of Requests
+  
 2. TA processing time = Processing time of requests * 60 / Processing rate per minute
 
 ## Result Visualization
