@@ -21,3 +21,9 @@ The result will show like the format "Average Wait xxx secs x tasks remaining" f
 ## How to run the whole module
 
 Download the pythonds in the computer. Run the python file in IDLE. The parameters of the `officeHourSimulation` function can be changed. 'numSeconds' is the number of seconds that need to serve for each students. 'requestPerMinute' is the request that gained for each minute. For the last equation, 'for i in range(x)", x means how many results need to generate, which also means the number of TA. 
+
+## Code Structures 
+
+Python 
+
+## Data Resources 
